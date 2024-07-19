@@ -12,7 +12,7 @@ pygame
 Installation:
 1:Clone the repository:
 
-git clone https://github.com/sripathisundarrajan/Drowsiness-Detection
+git clone https://github.com/SanjairohithM/Drowsiness-detection
 
 2.Navigate to the project directory:
 cd drowsiness-detection
